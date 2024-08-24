@@ -218,4 +218,3 @@ Add these dependencies to your `pubspec.yaml` file and run `flutter pub get` to 
 Feel free to reach out for any questions or collaboration opportunities!
 
 ---
-Let me know if you need any more assistance or further details!
